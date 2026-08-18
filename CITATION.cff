@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Cite esta edición mediante los metadatos siguientes."
+title: "The Open Logic Text — edición en español"
+authors:
+  - name: "The Open Logic Project"
+version: "2026-08-18-r1"
+date-released: "2026-08-18"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/KokunoYumeto/OpenLogic-es"
+abstract: >-
+  Edición en español, mantenida de forma independiente y producida con IA, de The Open Logic Text.
+  Esta edición no es oficial y no fue solicitada, revisada, aprobada ni respaldada por The Open Logic Project.
+  Cubre los 722 archivos de la fuente congelada en el commit 9620cc73f9c8e0ad003c514a5d3748f29611c4c0
+  (árbol f67757bb9305b173634082ab4cefd5601a707a34). Se distribuye bajo la licencia
+  Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+  Semánticamente, esta edición es una traducción de la fuente congelada (DataCite: IsTranslationOf).
+  La API heredada de Zenodo no admite esa relación y la serializa mediante la relación compatible
+  más cercana, isVariantFormOf; la procedencia exacta del commit se declara además como isDerivedFrom.
+  Zenodo genera IsVersionOf hacia el DOI conceptual de esta versión.
+preferred-citation:
+  type: book
+  title: "The Open Logic Text — edición en español"
+  doi: "10.5281/zenodo.21997721"
+  authors:
+    - name: "The Open Logic Project"
+  year: 2026
+  url: "https://github.com/KokunoYumeto/OpenLogic-es"
