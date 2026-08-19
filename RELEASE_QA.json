@@ -1,0 +1,74 @@
+{
+  "build_and_log": {
+    "bytes": 2422392,
+    "explicit_build_input_count": 749,
+    "fatal_lines": [],
+    "fresh_against_explicit_build_inputs": true,
+    "output_bytes": 5757978,
+    "output_pages": 1160,
+    "overfull_hbox_count": 50,
+    "path": "C:\\Users\\Floris\\Documents\\interlanguage\\03_projects\\language_management\\romance\\09_romance_interlanguage_openlogic_20260814\\editions\\open-logic-es\\locale\\es\\open-logic-complete.log",
+    "sha256": "2E0E635BD5A32B367C132A82F7C21BEA82114AA76FCAEA70693C1595132322EB",
+    "undefined_reference_or_citation_lines": [],
+    "unexpected_duplicate_labels": []
+  },
+  "concept_doi": "10.5281/zenodo.21997720",
+  "coverage": {
+    "approved_hash_bound_reflow_deltas": 9,
+    "closure_rows": 722,
+    "ledger_rows": 722,
+    "source_targets_hash_bound": 722,
+    "structure_pairs_verified": 722,
+    "translated_rows": 722
+  },
+  "credentials_read": false,
+  "failures": [],
+  "gates": {
+    "clean_build_and_log": true,
+    "frozen_source_identity": true,
+    "ledger_closure": true,
+    "pdf_metadata_links_and_geometry": true,
+    "source_target_hash_binding": true,
+    "successor_reservation": true,
+    "tex_structure": true
+  },
+  "identities": {
+    "authority_sha256": "2FD26B3F70589EA0A74E0639F67420093B788A260BA1F97E29F2CA1DB8F99275",
+    "closure_sha256": "4F0DFAA58C38B54C00180DE30AE09507D0DF9FBEA1E0ED6729DB7E2FA77AAC2F",
+    "license_sha256": "1094A30E124027CB4CFF48D932F1A8673D1386682A475A0EDC811F2162241FEC",
+    "source_commit": "9620cc73f9c8e0ad003c514a5d3748f29611c4c0",
+    "source_tree": "f67757bb9305b173634082ab4cefd5601a707a34",
+    "translation_progress_sha256": "F49ABF89E1EF55F09901D5DC749B7DF4BCCE4829018D689678E3DDB8C1BC9D96"
+  },
+  "network_used": false,
+  "pass": true,
+  "pdf_metadata_and_links": {
+    "bytes": 5757978,
+    "expected_release_uris_present": {
+      "https://doi.org/10.5281/zenodo.21997720": true,
+      "https://doi.org/10.5281/zenodo.22015696": true,
+      "https://github.com/KokunoYumeto/OpenLogic-es": true
+    },
+    "geometry_error_count": 0,
+    "geometry_errors": [],
+    "media_box_expected_mm": [
+      160.0,
+      230.0
+    ],
+    "metadata": {
+      "Author": "The Open Logic Project",
+      "Keywords": "logic; mathematical logic; open textbook; Spanish; español; AI-assisted translation; independent edition",
+      "Subject": "Edición en español, mantenida de forma independiente y producida con IA, de The Open Logic Text. Esta edición no es oficial y no fue solicitada, revisada, aprobada ni respaldada por The Open Logic Project.",
+      "Title": "The Open Logic Text — edición en español"
+    },
+    "pages": 1160,
+    "path": "C:\\Users\\Floris\\Documents\\interlanguage\\03_projects\\language_management\\romance\\09_romance_interlanguage_openlogic_20260814\\editions\\open-logic-es\\locale\\es\\open-logic-complete.pdf",
+    "sha256": "4A6E046B9393029F483ACF311800F1AF6661D4167ED7D10F933333A8889B1E64",
+    "uri_annotation_count": 43
+  },
+  "publication_phase": "POST_DOI_REBUILT_RELEASE_CANDIDATE",
+  "release_version": "2026-08-19-r2",
+  "reserved_version_doi": "10.5281/zenodo.22015696",
+  "schema": "openlogic.es.release-qa/2.0",
+  "scope": "Complete 722-file Spanish Open Logic r2 release candidate"
+}
