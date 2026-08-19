@@ -7,7 +7,7 @@
     "output_bytes": 5757978,
     "output_pages": 1160,
     "overfull_hbox_count": 50,
-    "path": "C:\\Users\\Floris\\Documents\\interlanguage\\03_projects\\language_management\\romance\\09_romance_interlanguage_openlogic_20260814\\editions\\open-logic-es\\locale\\es\\open-logic-complete.log",
+    "path": "local-build/open-logic-complete.log",
     "sha256": "2E0E635BD5A32B367C132A82F7C21BEA82114AA76FCAEA70693C1595132322EB",
     "undefined_reference_or_citation_lines": [],
     "unexpected_duplicate_labels": []
@@ -62,7 +62,7 @@
       "Title": "The Open Logic Text — edición en español"
     },
     "pages": 1160,
-    "path": "C:\\Users\\Floris\\Documents\\interlanguage\\03_projects\\language_management\\romance\\09_romance_interlanguage_openlogic_20260814\\editions\\open-logic-es\\locale\\es\\open-logic-complete.pdf",
+    "path": "release-assets/00_OLP_es_CURRENT_LINKED_READER.pdf",
     "sha256": "4A6E046B9393029F483ACF311800F1AF6661D4167ED7D10F933333A8889B1E64",
     "uri_annotation_count": 43
   },
