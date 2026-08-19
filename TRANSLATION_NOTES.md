@@ -6,8 +6,9 @@ Esta edición traduce la fuente congelada del Open Logic Project en el commit
 
 La cobertura registrada comprende 722 archivos. Se conservaron la estructura
 TeX, la matemática, los identificadores, las referencias, los ejemplos y los
-ejercicios. La versión 2026-08-19-r2 modifica la composición editorial, no el
-alcance de la traducción.
+ejercicios. La versión 2026-08-19-r3 conserva la composición editorial y el
+alcance de la traducción; únicamente remedia la privacidad de la evidencia
+pública de la versión anterior.
 
 La edición es independiente, no oficial y asistida por IA. No se afirma que
 haya sido revisada por hablantes nativos ni validada por una comunidad
