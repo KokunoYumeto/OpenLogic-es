@@ -4,11 +4,11 @@
     "explicit_build_input_count": 749,
     "fatal_lines": [],
     "fresh_against_explicit_build_inputs": true,
-    "output_bytes": 5757978,
+    "output_bytes": 5757977,
     "output_pages": 1160,
     "overfull_hbox_count": 50,
-    "path": "local-build/open-logic-complete.log",
-    "sha256": "2E0E635BD5A32B367C132A82F7C21BEA82114AA76FCAEA70693C1595132322EB",
+    "path": "lane://locale/es/open-logic-complete.log",
+    "sha256": "0218117B5E5AE6D940BD60D7857348D586A7C53F1C1D78F56AD8E9247A5B82E7",
     "undefined_reference_or_citation_lines": [],
     "unexpected_duplicate_labels": []
   },
@@ -43,10 +43,10 @@
   "network_used": false,
   "pass": true,
   "pdf_metadata_and_links": {
-    "bytes": 5757978,
+    "bytes": 5757977,
     "expected_release_uris_present": {
       "https://doi.org/10.5281/zenodo.21997720": true,
-      "https://doi.org/10.5281/zenodo.22015696": true,
+      "https://doi.org/10.5281/zenodo.22015980": true,
       "https://github.com/KokunoYumeto/OpenLogic-es": true
     },
     "geometry_error_count": 0,
@@ -62,13 +62,13 @@
       "Title": "The Open Logic Text — edición en español"
     },
     "pages": 1160,
-    "path": "release-assets/00_OLP_es_CURRENT_LINKED_READER.pdf",
-    "sha256": "4A6E046B9393029F483ACF311800F1AF6661D4167ED7D10F933333A8889B1E64",
+    "path": "lane://locale/es/open-logic-complete.pdf",
+    "sha256": "05036FB18EAEBA1CBF59A3AED9A2123D6A662C89562C4B60D36E2369D9A14DDC",
     "uri_annotation_count": 43
   },
   "publication_phase": "POST_DOI_REBUILT_RELEASE_CANDIDATE",
-  "release_version": "2026-08-19-r2",
-  "reserved_version_doi": "10.5281/zenodo.22015696",
+  "release_version": "2026-08-19-r3",
+  "reserved_version_doi": "10.5281/zenodo.22015980",
   "schema": "openlogic.es.release-qa/2.0",
-  "scope": "Complete 722-file Spanish Open Logic r2 release candidate"
+  "scope": "Complete 722-file Spanish Open Logic r3 privacy successor"
 }
