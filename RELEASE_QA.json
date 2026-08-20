@@ -1,20 +1,20 @@
 {
   "build_and_log": {
-    "bytes": 2422392,
-    "explicit_build_input_count": 749,
+    "bytes": 2592351,
+    "explicit_build_input_count": 748,
     "fatal_lines": [],
-    "fresh_against_explicit_build_inputs": true,
-    "output_bytes": 5757977,
-    "output_pages": 1160,
-    "overfull_hbox_count": 50,
+    "fresh_against_explicit_build_inputs": false,
+    "output_bytes": 5929602,
+    "output_pages": 1058,
+    "overfull_hbox_count": 340,
     "path": "lane://locale/es/open-logic-complete.log",
-    "sha256": "0218117B5E5AE6D940BD60D7857348D586A7C53F1C1D78F56AD8E9247A5B82E7",
+    "sha256": "35BF8A5AB06B85BC10F53191B30AB82D94F1DAE9977CBCC71F7B356D8A2A7FEE",
     "undefined_reference_or_citation_lines": [],
     "unexpected_duplicate_labels": []
   },
   "concept_doi": "10.5281/zenodo.21997720",
   "coverage": {
-    "approved_hash_bound_reflow_deltas": 9,
+    "approved_hash_bound_reflow_deltas": 10,
     "closure_rows": 722,
     "ledger_rows": 722,
     "source_targets_hash_bound": 722,
@@ -38,37 +38,36 @@
     "license_sha256": "1094A30E124027CB4CFF48D932F1A8673D1386682A475A0EDC811F2162241FEC",
     "source_commit": "9620cc73f9c8e0ad003c514a5d3748f29611c4c0",
     "source_tree": "f67757bb9305b173634082ab4cefd5601a707a34",
-    "translation_progress_sha256": "F49ABF89E1EF55F09901D5DC749B7DF4BCCE4829018D689678E3DDB8C1BC9D96"
+    "translation_progress_sha256": "DFECAB803B6E817A4F4BB025B099434DA16AA6922902EC6F21B3E90CA68907A5"
   },
   "network_used": false,
   "pass": true,
   "pdf_metadata_and_links": {
-    "bytes": 5757977,
+    "bytes": 5929602,
     "expected_release_uris_present": {
-      "https://doi.org/10.5281/zenodo.21997720": true,
-      "https://doi.org/10.5281/zenodo.22015980": true,
-      "https://github.com/KokunoYumeto/OpenLogic-es": true
+      "https://doi.org/10.5281/zenodo.21997720": false,
+      "https://github.com/KokunoYumeto/OpenLogic-es": false
     },
     "geometry_error_count": 0,
     "geometry_errors": [],
     "media_box_expected_mm": [
-      160.0,
-      230.0
+      215.9,
+      279.4
     ],
     "metadata": {
       "Author": "The Open Logic Project",
-      "Keywords": "logic; mathematical logic; open textbook; Spanish; español; AI-assisted translation; independent edition",
-      "Subject": "Edición en español, mantenida de forma independiente y producida con IA, de The Open Logic Text. Esta edición no es oficial y no fue solicitada, revisada, aprobada ni respaldada por The Open Logic Project.",
+      "Keywords": "lógica formal; metalógica; lógica matemática; teoría de modelos; computabilidad; incompletitud; lógica modal; teoría de conjuntos; teoría de la demostración",
+      "Subject": "Libro de texto abierto de lógica formal y metalógica: lógica proposicional y de primer orden, teoría de modelos, computabilidad, incompletitud, lógica modal, teoría de conjuntos y teoría de la demostración.",
       "Title": "The Open Logic Text — edición en español"
     },
-    "pages": 1160,
+    "pages": 1058,
     "path": "lane://locale/es/open-logic-complete.pdf",
-    "sha256": "05036FB18EAEBA1CBF59A3AED9A2123D6A662C89562C4B60D36E2369D9A14DDC",
-    "uri_annotation_count": 43
+    "sha256": "356503B9BFFE48D52EE8CC2AD13BBFEDC183CE68F7ACBD345F10B822E0B2BA1B",
+    "uri_annotation_count": 41
   },
-  "publication_phase": "POST_DOI_REBUILT_RELEASE_CANDIDATE",
-  "release_version": "2026-08-19-r3",
-  "reserved_version_doi": "10.5281/zenodo.22015980",
+  "publication_phase": "EXACT_FINISHED_READER_RELEASE_CANDIDATE",
+  "release_version": "2026-08-20-r4",
+  "reserved_version_doi": "10.5281/zenodo.22033009",
   "schema": "openlogic.es.release-qa/2.0",
-  "scope": "Complete 722-file Spanish Open Logic r3 privacy successor"
+  "scope": "Complete 722-file Spanish Open Logic finished reader"
 }
