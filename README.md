@@ -13,7 +13,7 @@ del Open Logic Project. Fuente exacta: commit
 `9620cc73f9c8e0ad003c514a5d3748f29611c4c0`, árbol
 `f67757bb9305b173634082ab4cefd5601a707a34`. Licencia: CC BY 4.0.
 
-- [Lector completo en PDF](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-08-19-r3/00_OLP_es_CURRENT_LINKED_READER.pdf)
-- [DOI de esta versión](https://doi.org/10.5281/zenodo.22015980)
+- [Lector completo en PDF](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-08-20-r4/00_OLP_es_CURRENT_LINKED_READER.pdf)
+- [DOI de esta versión](https://doi.org/10.5281/zenodo.22033009)
 - [DOI conceptual de la edición](https://doi.org/10.5281/zenodo.21997720)
 
