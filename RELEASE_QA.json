@@ -1,73 +1,80 @@
 {
-  "build_and_log": {
-    "bytes": 2592351,
-    "explicit_build_input_count": 748,
-    "fatal_lines": [],
-    "fresh_against_explicit_build_inputs": false,
-    "output_bytes": 5929602,
-    "output_pages": 1058,
-    "overfull_hbox_count": 340,
-    "path": "lane://locale/es/open-logic-complete.log",
-    "sha256": "35BF8A5AB06B85BC10F53191B30AB82D94F1DAE9977CBCC71F7B356D8A2A7FEE",
-    "undefined_reference_or_citation_lines": [],
-    "unexpected_duplicate_labels": []
-  },
+  "schema": "openlogic.es.release-qa/2.0",
+  "scope": "Complete 722-file Spanish Open Logic finished reader",
+  "publication_phase": "EXACT_FINISHED_READER_RELEASE_CANDIDATE",
+  "release_version": "2026-08-20-r5",
+  "reserved_version_doi": "10.5281/zenodo.22036027",
   "concept_doi": "10.5281/zenodo.21997720",
-  "coverage": {
-    "approved_hash_bound_reflow_deltas": 10,
-    "closure_rows": 722,
-    "ledger_rows": 722,
-    "source_targets_hash_bound": 722,
-    "structure_pairs_verified": 722,
-    "translated_rows": 722
-  },
-  "credentials_read": false,
-  "failures": [],
-  "gates": {
-    "clean_build_and_log": true,
-    "frozen_source_identity": true,
-    "ledger_closure": true,
-    "pdf_metadata_links_and_geometry": true,
-    "source_target_hash_binding": true,
-    "successor_reservation": true,
-    "tex_structure": true
-  },
   "identities": {
+    "source_commit": "9620cc73f9c8e0ad003c514a5d3748f29611c4c0",
+    "source_tree": "f67757bb9305b173634082ab4cefd5601a707a34",
     "authority_sha256": "2FD26B3F70589EA0A74E0639F67420093B788A260BA1F97E29F2CA1DB8F99275",
     "closure_sha256": "4F0DFAA58C38B54C00180DE30AE09507D0DF9FBEA1E0ED6729DB7E2FA77AAC2F",
     "license_sha256": "1094A30E124027CB4CFF48D932F1A8673D1386682A475A0EDC811F2162241FEC",
-    "source_commit": "9620cc73f9c8e0ad003c514a5d3748f29611c4c0",
-    "source_tree": "f67757bb9305b173634082ab4cefd5601a707a34",
-    "translation_progress_sha256": "DFECAB803B6E817A4F4BB025B099434DA16AA6922902EC6F21B3E90CA68907A5"
+    "translation_progress_sha256": "DFECAB803B6E817A4F4BB025B099434DA16AA6922902EC6F21B3E90CA68907A5",
+    "r5_build_visual_qa_sha256": "76D0F2CB9856770C57D9EC9962BF988CF5B8F9192E58D090E624C20C1C402DEF"
   },
-  "network_used": false,
-  "pass": true,
+  "coverage": {
+    "closure_rows": 722,
+    "ledger_rows": 722,
+    "translated_rows": 722,
+    "source_targets_hash_bound": 722,
+    "target_missing": 0,
+    "target_sha_mismatches": 0
+  },
+  "build_and_log": {
+    "path": "lane://locale/es/open-logic-complete.log",
+    "bytes": 2594403,
+    "sha256": "795E57F2B1645A8A56CE4CE673B75AADA41BE2B776FF0B710B8502EC5AD0EB3B",
+    "output_bytes": 5931444,
+    "output_pages": 1056,
+    "overfull_hbox_count": 349,
+    "undefined_control_sequences": 0,
+    "latex_errors": 0,
+    "fatal_errors": 0,
+    "emergency_stops": 0,
+    "undefined_references": 0,
+    "undefined_citations": 0,
+    "multiply_defined_labels": 0,
+    "rerun_required": 0,
+    "missing_characters": 0
+  },
   "pdf_metadata_and_links": {
-    "bytes": 5929602,
-    "expected_release_uris_present": {
-      "https://doi.org/10.5281/zenodo.21997720": false,
-      "https://github.com/KokunoYumeto/OpenLogic-es": false
-    },
-    "geometry_error_count": 0,
-    "geometry_errors": [],
-    "media_box_expected_mm": [
-      215.9,
-      279.4
-    ],
-    "metadata": {
-      "Author": "The Open Logic Project",
-      "Keywords": "lógica formal; metalógica; lógica matemática; teoría de modelos; computabilidad; incompletitud; lógica modal; teoría de conjuntos; teoría de la demostración",
-      "Subject": "Libro de texto abierto de lógica formal y metalógica: lógica proposicional y de primer orden, teoría de modelos, computabilidad, incompletitud, lógica modal, teoría de conjuntos y teoría de la demostración.",
-      "Title": "The Open Logic Text — edición en español"
-    },
-    "pages": 1058,
     "path": "lane://locale/es/open-logic-complete.pdf",
-    "sha256": "356503B9BFFE48D52EE8CC2AD13BBFEDC183CE68F7ACBD345F10B822E0B2BA1B",
-    "uri_annotation_count": 41
+    "bytes": 5931444,
+    "sha256": "66A7FB13E1B516644E14155F68772801F8070D92E18006091BB3CE0C1A2D4F2F",
+    "pages": 1056,
+    "metadata": {
+      "Title": "The Open Logic Text — edición en español",
+      "Author": "The Open Logic Project",
+      "Subject": "Libro de texto abierto de lógica formal y metalógica: lógica proposicional y de primer orden, teoría de modelos, computabilidad, incompletitud, lógica modal, teoría de conjuntos y teoría de la demostración.",
+      "Keywords": "lógica formal; metalógica; lógica matemática; teoría de modelos; computabilidad; incompletitud; lógica modal; teoría de conjuntos; teoría de la demostración"
+    },
+    "media_box_expected_mm": [215.9, 279.4],
+    "wrong_page_boxes": 0,
+    "visible_boundary_crossings": 0,
+    "glyphs_scanned": 2022051,
+    "vector_paths_scanned": 7654,
+    "visual_pages": [1, 2, 3, 4, 25, 26, 71, 371, 528, 653, 973, 1056],
+    "visual_verdict": "PASS_NO_CLIPPING_COLLISION_OR_CENTERING_SHIFT"
   },
-  "publication_phase": "EXACT_FINISHED_READER_RELEASE_CANDIDATE",
-  "release_version": "2026-08-20-r4",
-  "reserved_version_doi": "10.5281/zenodo.22033009",
-  "schema": "openlogic.es.release-qa/2.0",
-  "scope": "Complete 722-file Spanish Open Logic finished reader"
+  "gates": {
+    "successor_reservation": true,
+    "frozen_source_identity": true,
+    "ledger_closure": true,
+    "source_target_hash_binding": true,
+    "clean_build_and_log": true,
+    "pdf_metadata_links_and_geometry": true,
+    "full_document_visual_scan": true
+  },
+  "evidence_basis": {
+    "r5_build_visual_qa": "lane://evidence/SPANISH_HUMAN_COMPLETE_TEMPLATE_BUILD_QA_20260820_R5.json",
+    "r5_build_visual_qa_sha256": "76D0F2CB9856770C57D9EC9962BF988CF5B8F9192E58D090E624C20C1C402DEF",
+    "pre_doi_pin": "stage://receipts/PRE_DOI_READER_PIN.json",
+    "reservation": "stage://receipts/RESERVED_IDENTITIES.json"
+  },
+  "failures": [],
+  "network_used": false,
+  "credentials_read": false,
+  "pass": true
 }
