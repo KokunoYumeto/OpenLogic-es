@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "Cite el DOI de versión para los bytes inmutables o el DOI conceptual para la edición española más reciente."
 title: "The Open Logic Text — edición en español"
-version: "2026-08-19-r3"
-date-released: "2026-08-19"
-doi: "10.5281/zenodo.22015980"
+version: "2026-08-20-r4"
+date-released: "2026-08-20"
+doi: "10.5281/zenodo.22033009"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22015980"
-    description: "Versión inmutable 2026-08-19-r3"
+    value: "10.5281/zenodo.22033009"
+    description: "Versión inmutable 2026-08-20-r4"
   - type: doi
     value: "10.5281/zenodo.21997720"
     description: "DOI conceptual de la edición española"
@@ -16,9 +16,9 @@ license: CC-BY-4.0
 authors:
   - name: "The Open Logic Project"
 abstract: >-
-  Edición independiente y completa en español de The Open Logic Text,
-  recompuesta como libro de 160 × 230 mm. Cubre los 722 archivos de la
-  fuente congelada; no es una publicación oficial ni implica respaldo.
+  Edición independiente y completa en español de The Open Logic Text. Cubre
+  los 722 archivos de la fuente congelada y conserva su estructura ejecutable;
+  no es una publicación oficial ni implica respaldo.
 keywords:
   - logic
   - mathematical logic
@@ -29,7 +29,7 @@ preferred-citation:
   title: "The Open Logic Text — edición en español"
   authors:
     - name: "The Open Logic Project"
-  version: "2026-08-19-r3"
+  version: "2026-08-20-r4"
   year: 2026
-  doi: "10.5281/zenodo.22015980"
-  url: "https://doi.org/10.5281/zenodo.22015980"
+  doi: "10.5281/zenodo.22033009"
+  url: "https://doi.org/10.5281/zenodo.22033009"
