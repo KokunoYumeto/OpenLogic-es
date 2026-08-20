@@ -12,8 +12,8 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "spa",
-  "version": "2026-08-19-r3",
-  "publication_date": "2026-08-19",
+  "version": "2026-08-20-r4",
+  "publication_date": "2026-08-20",
   "keywords": [
     "logic",
     "mathematical logic",
@@ -38,5 +38,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Edición completa en español de los 722 archivos de la fuente. Edición independiente, asistida por IA y no oficial; no implica el respaldo del Open Logic Project. Fuente exacta: commit 9620cc73f9c8e0ad003c514a5d3748f29611c4c0, árbol f67757bb9305b173634082ab4cefd5601a707a34. Licencia: CC BY 4.0."
+  "notes": "Edición completa en español de los 722 archivos de la fuente. Edición independiente, asistida por IA y no oficial; no implica el respaldo del Open Logic Project. Fuente exacta: commit 9620cc73f9c8e0ad003c514a5d3748f29611c4c0, árbol f67757bb9305b173634082ab4cefd5601a707a34. Licencia: CC BY 4.0. La semántica de traducción es IsTranslationOf; la API heredada la expresa como isVariantFormOf, conserva isDerivedFrom para la procedencia y Zenodo genera IsVersionOf para esta versión."
 }
