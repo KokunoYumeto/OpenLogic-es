@@ -1,5 +1,7 @@
 # The Open Logic Text — edición en español
 
+> Esta edición figura en el [catálogo central de traducciones de Open Logic](https://github.com/KokunoYumeto/OpenLogic-translations); el catálogo distingue la cobertura de las fuentes traducidas de la cobertura del lector independiente.
+
 Edición independiente y completa en español de *The Open Logic Text*, un manual
 abierto de lógica formal y metalógica. Abarca lógica proposicional y de primer
 orden, teoría de modelos, computabilidad, incompletitud, lógica modal, teoría de
