@@ -1,3 +1,21 @@
+<!-- reader722-public-20260925 -->
+# Texto de lógica abierta — lector completo en español
+
+Este lector independiente reúne los 722 archivos fuente traducidos en 1140 páginas. Se conserva exactamente el PDF verificado de la revisión 2026-09-20-r2. La completitud estructural no certifica la calidad lingüística; la revisión terminológica y del canon sigue en curso.
+
+Traducción histórica asistida por IA: los registros consultados no permiten atribuir de forma fiable un modelo y nivel de esfuerzo a todos los fragmentos. No se inventa esa atribución. Empaquetado y comprobación de identidad: OpenAI Codex — GPT-6 Astra, Ultra effort. No se afirma revisión humana.
+
+- [PDF · 722/722](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-09-25-reader722-r2/00_OpenLogic_es_722.pdf)
+- [LaTeX · 722/722](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-09-25-reader722-r2/01_OpenLogic_es_722.tex)
+- [Fuentes editables completas](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-09-25-reader722-r2/02_OpenLogic_es_fuentes.zip)
+- [Proveniencia y limitaciones](https://github.com/KokunoYumeto/OpenLogic-es/releases/download/v2026-09-25-reader722-r2/03_OpenLogic_es_proveniencia.md)
+
+[Zenodo](https://doi.org/10.5281/zenodo.22951064) · [OpenLogic](https://kokunoyumeto.github.io/OpenLogic-translations/)
+
+El ZIP es la fuente editable exacta del lector publicado; los archivos históricos del repositorio no sustituyen esa versión.
+
+<details><summary>Documentación histórica conservada</summary>
+
 # The Open Logic Text — edición en español
 
 Adaptación independiente en español del [Open Logic Project](https://openlogicproject.org/), bajo CC BY 4.0. Es una edición asistida por IA y no oficial; no implica el respaldo del proyecto original.
@@ -19,3 +37,6 @@ La auditoría local actual verifica 722 archivos traducidos contra su registro d
 Los archivos históricos `RELEASE_QA.json`, `ARTIFACT_SHA256.tsv` y `.zenodo.json` describen el candidato r5. Se conservan como evidencia, pero no prueban la existencia de una publicación GitHub r5 ni la identidad de los archivos locales posteriores. Los enlaces de lectura y citación ya no apuntan a ese lanzamiento inexistente.
 
 Véase [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json) para las identidades verificadas y las diferencias entre versiones. Las revisiones exactas de las fuentes y la atribución se conservan en [TRANSLATION_NOTES.md](TRANSLATION_NOTES.md) y [LICENSE.md](LICENSE.md).
+
+
+</details>
